@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b310c6cd-1176-4024-b748-c328775a805b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/simulation.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simulation.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/node.js.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/node.js.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lcg.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/lcg.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/test_old/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/asserts.js" beforeDir="false" afterPath="$PROJECT_DIR$/test_old/asserts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/center-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test_old/center-test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/collide-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test_old/collide-test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/find-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test_old/find-test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/simulation-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test_old/simulation-test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/x-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test_old/x-test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2ooGLVRBbWLDzfBigkDx8BHTf2T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Mocha.find.executor": "Run",
+    "Mocha.simulation.find(x, y, radius) finds a node within radius.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/nickp/Documents/d3-force-webgpu/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.mocha.mocha_node_package_dir": "/Users/nickp/Documents/d3-force-webgpu/node_modules/mocha",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "pnpm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "/Users/nickp/Documents/d3-force-webgpu/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Mocha.find">
+    <configuration name="find" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/src/simulation.test.ts</test-file>
+      <test-names>
+        <name value="find" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="simulation.find(x, y, radius) finds a node within radius" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/find-test.js</test-file>
+      <test-names>
+        <name value="simulation.find(x, y, radius) finds a node within radius" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha.find" />
+        <item itemvalue="Mocha.simulation.find(x, y, radius) finds a node within radius" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.17011.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b310c6cd-1176-4024-b748-c328775a805b" name="Changes" comment="" />
+      <created>1730315678640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730315678640</updated>
+      <workItem from="1730315679887" duration="204000" />
+      <workItem from="1731528459306" duration="2071000" />
+      <workItem from="1731532839372" duration="6503000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/simulation.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
